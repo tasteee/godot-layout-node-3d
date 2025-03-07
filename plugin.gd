@@ -1,9 +1,9 @@
 @tool
 extends EditorPlugin
 
-const pluginIconPath = "res://addons/layout_node_3d/addons/layout_node_3d/icon.png"
-const layoutNode3dPath = "res://addons/layout_node_3d/addons/layout_node_3d/layout_node_3d_node.gd"
-const inspectorPluginPath = "res://addons/layout_node_3d/addons/layout_node_3d/layout_node_3d_inspector.gd"
+const pluginIconPath = "res://addons/layout_node_3d/icon.png"
+const layoutNode3dPath = "res://addons/layout_node_3d/layout_node_3d_node.gd"
+const inspectorPluginPath = "res://addons/layout_node_3d/layout_node_3d_inspector.gd"
 
 var inspectorPlugin
 var pluginScript
