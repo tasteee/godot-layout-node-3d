@@ -14,5 +14,10 @@ export_presets.cfg
 data_*/
 mono_crash.*.json
 
+*.import
+*.uid
 */**/*.gd.uid
 */**/*.*.import
+/layout_node_3d_node.gd.uid
+/layout_node_3d_inspector.gd.uid
+/plugin.gd.uid

@@ -16,3 +16,7 @@ A Godot 4.0 addon for laying out nodes in 3D.
 ![](https://i.imgur.com/zJcW7It.png)
 
 ![](https://i.imgur.com/TOUVySa.png)
+
+# Notes
+
+- When installed, the addon should be located specifically at `res://addons/layout_node_3d`.
