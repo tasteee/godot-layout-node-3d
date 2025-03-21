@@ -21,3 +21,4 @@ mono_crash.*.json
 /layout_node_3d_node.gd.uid
 /layout_node_3d_inspector.gd.uid
 /plugin.gd.uid
+/icon.png.import
